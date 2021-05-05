@@ -6,3 +6,5 @@ sum=$(( a+b*c ))
 echo "the arithmetic values is = " $sum;
 multiplication=$(( a*b+c ))
 echo "the second operation values is = " $multiplication
+divition=$(( c+a/b ));
+echo "the divition value = " $divition;
