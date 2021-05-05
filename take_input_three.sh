@@ -8,3 +8,5 @@ multiplication=$(( a*b+c ))
 echo "the second operation values is = " $multiplication
 divition=$(( c+a/b ));
 echo "the divition value = " $divition;
+mod=$(( a%b+c ));
+echo "the mod values is = " $mod
